@@ -10,4 +10,6 @@ Extrai informações de posts de redes sociais sobre tecnologia e produzi insigh
 
 Segui o passo a passo para configurar a busca cognitiva em uma base de dados de review de uma cafeteria ficticia.
 
-## IA Generativa
+## [IA Generativa](generative-ai/insights.md)
+
+Busquei os usos da IA generativa e suas possibilidades.
